@@ -14,6 +14,14 @@ import gallery9 from "@/assets/gallery-9.jpg";
 import gallery10 from "@/assets/gallery-10.jpg";
 import gallery11 from "@/assets/gallery-11.jpg";
 import gallery12 from "@/assets/gallery-12.jpg";
+import gallery12 from "@/assets/gallery-13.jpg";
+import gallery12 from "@/assets/gallery-14.jpg";
+import gallery12 from "@/assets/gallery-15.jpg";
+import gallery12 from "@/assets/gallery-16.jpg";
+import gallery12 from "@/assets/gallery-17.jpg";
+import gallery12 from "@/assets/gallery-18.jpg";
+import gallery12 from "@/assets/gallery-19.jpg";
+import gallery12 from "@/assets/gallery-20.jpg";
 
 const images = [gallery1, gallery2, gallery3, gallery4, gallery5, gallery6, gallery7, gallery8, gallery9, gallery10, gallery11, gallery12];
 const captions = [

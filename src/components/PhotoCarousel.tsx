@@ -14,16 +14,16 @@ import gallery9 from "@/assets/gallery-9.jpg";
 import gallery10 from "@/assets/gallery-10.jpg";
 import gallery11 from "@/assets/gallery-11.jpg";
 import gallery12 from "@/assets/gallery-12.jpg";
-import gallery12 from "@/assets/gallery-13.jpg";
-import gallery12 from "@/assets/gallery-14.jpg";
-import gallery12 from "@/assets/gallery-15.jpg";
-import gallery12 from "@/assets/gallery-16.jpg";
-import gallery12 from "@/assets/gallery-17.jpg";
-import gallery12 from "@/assets/gallery-18.jpg";
-import gallery12 from "@/assets/gallery-19.jpg";
-import gallery12 from "@/assets/gallery-20.jpg";
+import gallery13 from "@/assets/gallery-13.png";
+import gallery14 from "@/assets/gallery-14.png";
+import gallery15 from "@/assets/gallery-15.png";
+import gallery16 from "@/assets/gallery-16.png";
+import gallery17 from "@/assets/gallery-17.png";
+import gallery18 from "@/assets/gallery-18.png";
+import gallery19 from "@/assets/gallery-19.png";
+import gallery20 from "@/assets/gallery-20.png";
 
-const images = [gallery1, gallery2, gallery3, gallery4, gallery5, gallery6, gallery7, gallery8, gallery9, gallery10, gallery11, gallery12];
+const images = [gallery1, gallery2, gallery3, gallery4, gallery5, gallery6, gallery7, gallery8, gallery9, gallery10, gallery11, gallery12, gallery13, gallery14, gallery15, gallery16, gallery17, gallery18, gallery19, gallery20];
 const captions = [
   "Our golden moment",
   "Hand in hand, always",

@@ -37,6 +37,14 @@ const captions = [
   "A heart full of love",
   "Together in the rain",
   "Our sunrise, our forever",
+  "Whispers of love",
+  "Forever yours",
+  "Moonlit memories",
+  "Our little world",
+  "Every moment with you",
+  "Love without end",
+  "Dreams together",
+  "Two hearts, one soul",
 ];
 
 const PhotoCarousel = () => {
